@@ -1,0 +1,2 @@
+Codes for RNAseq analysis and figure generation for paper:
+Sun, Z., Zhang, Z., Banu, K., Al Azzi, Y., Reghuvaran, A., Fredericks, S., Planoutene, M., Hartzell, S., Kim, Y., Pell, J. and Tietjen, G., 2022. Blood transcriptomes of SARS-CoV-2–infected kidney transplant recipients associated with immune insufficiency proportionate to severity. Journal of the American Society of Nephrology, 33(11), pp.2108-2122.
